@@ -1,3 +1,8 @@
 Project Proposal
 
-Use data for US Gun Violence from 2013-2018 to compare incidents involving guns in the state of Florida. Our group is searching for trends of seasonality, demographics, incident types and location.
+Our group is searching for trends of seasonality, demographics, and incident types across the dataset.
+The incidence of gun-violence deaths will be increased in the winter (perhaps corresponding with seasonal depression and significant number of suicide gun-deaths), and will have an overall increase over the years.
+According to the Gifford's Law Center:
+
+	-black males are subject homicides by gun ten times more than other races. We will analyze our data to determine whether relationships between the perpetrator's intent and the victim's race exist.
+	-economically disenfranchised cities present high rates of gun violence, especially among young men. In addition, education is linked to high social mobility rates. Our goal is to find whether specific age groups of diverse educational levels of the victims' are related
